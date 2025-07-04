@@ -1,6 +1,6 @@
 package Inheritance8;
 
-public class B 
+public class B extends A
 {
     B()
     {
